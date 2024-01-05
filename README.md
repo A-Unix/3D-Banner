@@ -10,6 +10,9 @@
 
 ## Created by Atul
 
+## Installation & Usage Video
+<img align="center" width="963" height="550" alt="img2emoji" src="https://github.com/Atuls-git/3D-Banner/assets/54507991/8269f357-572c-4507-9bf4-b7e1a8035bf2" />
+
 ## Installation instructions
 
  ### Clone the repo
