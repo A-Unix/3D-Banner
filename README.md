@@ -17,7 +17,7 @@
 
  ### Clone the repo
   ```bash
-  git clone https://github.com/Atuls-git/3D-Banner.git
+  git clone https://github.com/A-Unix/3D-Banner.git
   ```
  ### Move to cloned folder
   ```bash
