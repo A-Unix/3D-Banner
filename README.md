@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/Language-Python/Bash-cyan" alt="Language" />
 </p>
 
-# Img2emoji
- A Python script to convert any type of image into an emoji.
-
 ## Created by Atul
 
 ## Installation & Usage Video
